@@ -44,7 +44,7 @@ p {
 
 
 a {
-    color: #0D3C55;
+    color: #ffffff;
     word-wrap: break-word;
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -162,7 +162,8 @@ form.signup input.form-control:focus {
 
 h2.subtitle {
 	color: #1395BA;
-	font-size: 24px;
+	font-size: 5vmax;
+    text-shadow: 2px 2px #fff;
 }
 
 /* countdown */
@@ -177,7 +178,7 @@ h2.subtitle {
 /* footer */
 p.copyright {
 	margin-top: 50px;
-	color: #080808;
+	color: #ffffff;
 	text-align: center;
 }	
 
