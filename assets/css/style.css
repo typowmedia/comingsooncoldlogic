@@ -44,7 +44,7 @@ p {
 
 
 a {
-    color: #F16C20;
+    color: #0D3C55;
     word-wrap: break-word;
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -55,7 +55,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #EAEBEC;
+    color: #F16C20;
     text-decoration: none;
     outline: 0;
 }
@@ -129,10 +129,10 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: center;
-	background: url(../img/main-bg-compressor.jpg) no-repeat center top;
+	background: url(../img/coldLogic_surreysite.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
-  box-sizing:border;
+    box-sizing:border;
 	width: 100%;	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -161,7 +161,7 @@ form.signup input.form-control:focus {
 }
 
 h2.subtitle {
-	color: #fff;
+	color: #1395BA;
 	font-size: 24px;
 }
 
@@ -177,7 +177,7 @@ h2.subtitle {
 /* footer */
 p.copyright {
 	margin-top: 50px;
-	color: #fff;
+	color: #080808;
 	text-align: center;
 }	
 
